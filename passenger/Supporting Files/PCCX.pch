@@ -1,0 +1,26 @@
+//
+//  PCCX.pch
+//  passenger
+//
+//  Created by 杨星星 on 2017/12/13.
+//  Copyright © 2017年 杨星星. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#pragma mark - comm
+#import "HttpClient+addition.h"
+#import "wConsts.h"
+#import "UITableViewCustom.h"
+#import "NSString+Regular.h"
+#import "GlobalHeader.h"
+#import <YYKit.h>
+#import "SystemAuthority.h"
+#import "Masonry.h"
+#import "User.h"
+#import "MyTools.h"
+#import "GlobalHeader.h"
+#import "UIViewController+MMDrawerController.h"
+#import "LeftMineViewController.h"
+
+#endif
